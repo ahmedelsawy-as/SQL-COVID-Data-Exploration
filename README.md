@@ -1,5 +1,5 @@
 # SQL COVID-19 Data Exploration
-By: [**Ahmed ElSawy**](https://www.linkedin.com/in/sawy/ 'Ahmed ElSawy')
+By: [**Ahmed ElSawy**](https://www.linkedin.com/in/sawy/ 'Ahmed ElSawy on LinkedIn')
 On: **23-12-2022**
 
 Download Data from [Our World in Data](https://ourworldindata.org/coronavirus).
