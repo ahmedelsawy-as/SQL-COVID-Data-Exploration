@@ -14,4 +14,4 @@ All variables descriptions [here](https://github.com/owid/covid-19-data/tree/mas
 
 •	Obtained important insights, such as the wide gap in vaccination rates, infection rates and death rates between countries, having Yemen in the worst position of all covid criteria
 
-•	[tableau Visualization link here](https://public.tableau.com/views/SQLCovid-19DataExploration/Dashboard1?:showVizHome=no)
+•	Data Visualization with tableau [here](https://public.tableau.com/views/SQLCovid-19DataExploration/Dashboard1?:showVizHome=no)
